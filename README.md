@@ -1,14 +1,10 @@
 # 📊 Data & Research Portfolio
 
-Welcome! This repository is a collection of projects that demonstrate my skills in **data analysis, visualization, research, and technical problem solving**. My background combines **physics, research & analysis (RAND)**, and **special education data tracking**, giving me a unique perspective on applying analytics across domains.
+Welcome! This repository is a collection of projects that demonstrate my skills in **data analysis, visualization, research, and technical problem solving**. My background combines **physics** and **research & analysis (RAND)**, giving me a unique perspective on applying analytics across domains. Note, these project samples are modified/adapted accordingly to exclude sensitive, classified data from the actual projects completed at my job.
 
 ---
 
-## 🔑 Highlights
 
-- **Languages & Tools:** Python (pandas, plotly, matplotlib), SQL, Excel, Jupyter Notebooks  
-- **Focus Areas:** Supply chain mapping, quantitative modeling, education data tracking, visualization for decision-making  
-- **Strengths:** Turning messy, multi-source data into clear insights and interactive visuals
 
 ---
 
